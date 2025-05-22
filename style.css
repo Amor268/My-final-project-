@@ -1,0 +1,38 @@
+body {
+    background-image: linear-gradient(to right,#15aca3,#087db2);
+    } 
+.container {
+    background-color: green;
+    width: 80%;
+    margin: 50px auto 0;
+    padding: 25px;
+    border: 1.5px solid pink;
+} 
+.logo {
+    width: 25%;
+}
+.wlcm{
+    margin-bottom: 0px;
+}
+.hero-title{
+    margin-top: -0.5px;
+    font-weight: 900;
+    font-family: "source sans 3", sans-serif;
+}
+.btn{
+    margin-top: 15px 0 100px;
+    padding: 7px 12px;
+    border: none;
+    background: #0ea4e4;
+    color: blue;
+    font-family: "source sans 3", sans-serif;
+    font-weight: bolder;
+}
+.note{
+    font-size: 1rem;
+    width: 90%;
+}
+.cta{
+    border-bottom: 2px solid #0ea4e4;
+    
+}
